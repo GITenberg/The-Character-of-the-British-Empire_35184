@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1447
     wikipedia: http://en.wikipedia.org/wiki/Ramsay_Muir
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35184#The-Character-of-the-British-Empire
 gutenberg_issued: '2011-02-06'
 gutenberg_type: Text
 identifiers:
