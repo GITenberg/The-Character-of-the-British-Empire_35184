@@ -1,0 +1,30 @@
+_repo: The-Character-of-the-British-Empire_35184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Muir, Ramsay
+    alias: Muir, John Ramsey Bryce
+    birthdate: 1872
+    deathdate: 1941
+    gutenberg_agent_id: '1447'
+    url: http://www.gutenberg.org/2009/agents/1447
+    wikipedia: http://en.wikipedia.org/wiki/Ramsay_Muir
+description: ''
+gutenberg_issued: '2011-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35184'
+  lccn: '19009328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JN'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Colonies -- Administration'
+title: The Character of the British Empire
+url: http://www.gutenberg.org/ebooks/35184
